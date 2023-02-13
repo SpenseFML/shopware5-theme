@@ -1,0 +1,35 @@
+.listing--container .product--price {
+  text-align: right;
+}
+
+.product--box .product--price .price--default {
+   font-weight: normal;
+}
+
+.listing--container .product--box .product--detail-btn {
+  margin-top: 1.2rem;
+  margin-bottom: 1rem;
+}
+
+.listing--container .product--title, .listing--container .price--defaultx {
+  font-weight: normal;
+}
+
+.listing--container .product--title {
+  font-size: 1.2rem;
+}
+
+.buybox--button {
+  text-transform: uppercase;
+  font-weight: normal;
+}
+
+table a {
+  overflow-wrap: break-word;
+  word-wrap: break-word;
+  -webkit-hyphens: auto;
+  -ms-hyphens: auto;
+  -moz-hyphens: auto;
+  hyphens: auto;
+}
+
